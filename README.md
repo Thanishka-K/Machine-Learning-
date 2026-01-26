@@ -15,3 +15,10 @@ The Training Phase: This is where the model "studies." It runs the data through 
 
 Testing/Evaluation: You save some data that the model has never seen before to test it. If it performs well here, you know it has actually learned the concepts rather than just memorizing the training set.
 
+## =>Key Concepts to Know
+Algorithms: These are the specific math tools used, like Linear Regression (for numbers) or Decision Trees (for categories).
+
+Overfitting: A common trap where a model learns the training data too well, including the noise/errors. It looks perfect on paper but fails in the real world because it can’t generalize.
+
+Features & Targets: Features are your inputs (the data you have), and the Target is the output (the thing you’re trying to predict).
+
