@@ -1,0 +1,14 @@
+# Day 1: Linear Regression
+What it is: Linear Regression is used to predict a continuous numerical value.
+It assumes there is a direct, straight-line relationship between your input (Independent Variable) and your output (Dependent Variable).
+  
+In simple terms, it tries to draw the "best fit" line through a bunch of data points so that the distance between the line and the actual points is as small as possible.
+The Core Formula: 
+Similar to the equation for a line: y=mx+c. In ML y=wX+b, 
+  where y: The prediction (Target)
+  X:The input (feature)
+  w:The weight (how much X affects y)
+  b:The bias (the starting point/intercept)
+
+
+  
