@@ -11,3 +11,9 @@ It keeps splitting the data until it reaches a "Leaf Node," which provides the f
 The algorithm chooses which question to ask first by looking for the feature that separates the data most cleanly. 
 
 In technical terms, it tries to reduce "Entropy" (randomness/messiness) at every step.
+
+## Real-World Example: Loan Approval
+Imagine a bank uses a Decision Tree to decide if a customer should be approved for a loan. 
+* First Question (Root): Is the customer's credit score above 700? No: Go to the left branch => Loan Denied. Yes: Go to the right branch => Ask the next question.
+* Second Question: Is their annual income over $50,000?No: Go to the left branch => Loan Denied. Yes: Go to the right branch => Loan Approved (Leaf Node).
+* The computer looks at thousands of past customers to figure out that "Credit Score" was the most important first question to ask.
