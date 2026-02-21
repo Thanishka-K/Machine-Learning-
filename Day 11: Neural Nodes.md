@@ -16,13 +16,13 @@ Its main purpose is to take in data, calculate its significance, and produce an 
 * Sigmoid: This squashes the output into a range between 0 and 1. It is mostly used for predicting probabilities, like the likelihood of an image being a cat.
 * Tanh: This function maps the input to a range between -1 and 1. It is useful for data that has negative values and needs to be centered around zero.
 
-### Analogy for Understanding
+## Analogy for Understanding
 * Inputs: Imagine factors like the weather, the cost of a ticket, and your energy level.
 * Weights: These represent your personal preferences, such as caring more about the cost than the weather.
 * Bias: This is your general mood, which might make you more or less likely to go out regardless of the other factors.
 * Activation: This is the final internal decision that results in either staying home or going out.
 
-### Biological Comparisons
+## Biological Comparisons
 * Dendrites: These correspond to the input signals the node receives.
 * Cell Body: This corresponds to the summation and activation math happening inside the node.
 * Axon: This corresponds to the final output signal being sent to the next node.
