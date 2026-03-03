@@ -1,0 +1,10 @@
+Day 16: Generative AI & Large Language Models (LLMs)
+The Concept
+While previous models were designed to predict a label (Classification) or a number (Regression), Generative AI is designed to create new content. LLMs are a specific type of Generative AI trained on massive text datasets to predict the "next most likely token" in a sequence.
+Technical Terms for Your Notebook
+Tokens: The basic units of text processed by an LLM. A token can be a whole word, a part of a word (sub-word), or even a punctuation mark.
+Context Window: The maximum number of tokens the model can "remember" or consider at one time during a conversation.
+Hallucination: When an LLM generates a response that sounds confident and logical but is factually incorrect or nonsensical.
+Temperature: A hyperparameter that controls the "creativity" of the output.
+Low Temperature (e.g., 0.2): Makes the model more focused and deterministic (good for facts).
+High Temperature (e.g., 0.8): Makes the model more diverse and "creative."
