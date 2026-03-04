@@ -1,4 +1,4 @@
-#.Day 16: Generative AI & Large Language Models (LLMs)
+# Day 16: Generative AI & Large Language Models (LLMs)
 ## The Concept
 While previous models were designed to predict a label (Classification) or a number (Regression), Generative AI is designed to create new content. LLMs are a specific type of Generative AI trained on massive text datasets to predict the "next most likely token" in a sequence.
 *Technical Terms for Your Notebook
