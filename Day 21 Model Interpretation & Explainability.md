@@ -1,4 +1,4 @@
-# Day 21: Model Interpretation & Explainability 
+i# Day 21: Model Interpretation & Explainability 
 ## The Concept
 Model Explainability is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms. This is critical for high-stakes industries like healthcare or finance.
 ## Technical Terms
