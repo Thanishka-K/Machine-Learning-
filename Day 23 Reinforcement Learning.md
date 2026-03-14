@@ -16,4 +16,4 @@ The Goal: Complete the lap as fast as possible without crashing.
 * Negative Reward: -100 points for hitting a barrier.
 * The Learning: At first, the car (Agent) crashes constantly. Over thousands of "episodes," it learns that steering slightly left when it sees a curve (State) leads to a higher Reward.
 
-## Turn phone on
+## it inputs from feeback to get accuracy
