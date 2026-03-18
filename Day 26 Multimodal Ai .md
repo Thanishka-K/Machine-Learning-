@@ -1,4 +1,4 @@
-# Day 25: Multi-Modal AI & CLIP (The Bridge between Text and Vision)
+# Day 26: Multi-Modal AI & CLIP (The Bridge between Text and Vision)
 ## The Concept
 Most models you’ve studied so far are "Single-Modal" (they only handle text or only handle images). Multi-Modal AI can understand and relate information from different types of data simultaneously. CLIP (Contrastive Language-Image Pre-training), developed by OpenAI, is the most famous example. It was trained on millions of images and their captions to understand how words and pictures relate to each other.
 * Technical Terms for Your Notebook
