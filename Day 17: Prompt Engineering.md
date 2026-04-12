@@ -4,7 +4,8 @@
 
 ## ​Technical Terms
 ​* Zero-Shot Prompting: Asking the AI a task without any examples (e.g., "Translate this to French: Hello").
-* ​Few-Shot Prompting: Providing a few examples within the prompt to show the model the desired pattern before asking it to perform the task.
+* One-Shot Prompting: Provides only one example so Ai tries to replicate it as much ss possible
+* ​Few-Shot Prompting: Providing a few examples within the prompt to show the model the desired pattern before asking it to perlform the task.
 * ​Chain of Thought (CoT): Encouraging the model to "think step-by-step." This significantly improves performance on complex reasoning or math tasks.
 * ​System Prompts: High-level instructions that define the AI's "persona" (e.g., "You are a senior data scientist who explains things simply").
 
