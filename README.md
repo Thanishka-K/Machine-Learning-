@@ -22,3 +22,4 @@ Overfitting: A common trap where a model learns the training data too well, incl
 
 Features & Targets: Features are your inputs (the data you have), and the Target is the output (the thing you’re trying to predict).
 
+eitherway experimenta debbuging us imp 
